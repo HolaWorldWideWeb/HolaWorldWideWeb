@@ -1,10 +1,10 @@
 <h1 align="center"> Hi there </h2>
 
 
-<h4>My name is Norma G. Thanks for taking the time and learn more about me.</h4>
+<h4 align="center">My name is Norma G. Thanks for taking the time and learn more about me.</h4>
 
 <details align="center">
-<summary>My top skills and more</summary>
+<summary align="center">My top skills and more</summary>
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
