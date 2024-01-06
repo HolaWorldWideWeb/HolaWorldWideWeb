@@ -3,7 +3,7 @@
 
 <h4 align="center">Thanks for taking the time to learn more about me.</h4>
 
-<details>
+<details color:"red">
 <summary>My top skills and more</summary>
 
 | Rank | THING-TO-RANK |
