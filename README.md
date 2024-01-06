@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there </h2>
 
 
-<h4 align="center">My name is Norma G. Thanks for taking the time and learn more about me.</h4>
+<h4 align="center">My name is Norma G. Thanks for taking the time to learn more about me.</h4>
 
 <details align="center">
 <summary align="center">My top skills and more</summary>
@@ -15,8 +15,7 @@
 | next |  Redux        |
 
 </details>
-
-🔭 I’m currently making my career come back and 👩🏻‍🎓 training as a Full Stack Development 💻 <br /> 
+I am fully bilingual in Spanish and English and 🔭 I’m currently making my career come back and 👩🏻‍🎓 training as a Full Stack Development 💻 <br /> 
 👨‍💻 I’m looking to collaborate on the open source in this platform. <br />
 🧘‍♂️ Ask me about what other transferable skills I possess. <br />
 🙈🙉🙊 How to reach me: my email normasgunderson@gmail.com <br />
