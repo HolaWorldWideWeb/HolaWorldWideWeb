@@ -1,6 +1,6 @@
 <h1 align="center"> Hola I am Norma G. </h2>
-<h4 align="center">Thanks for taking the time to learn more about me.</h4>
-<p>I am fully bilingual in Spanish and English ✨ and Ex-Business Owner ✨. I’m currently making my career come back and 👩🏻‍🎓 training as a Full Stack Development 💻 </p>
+<h4 align="center">Thanks for taking the time to know more about me.</h4>
+<p>I am fully bilingual in Spanish and English ✨ and Ex-Business Owner ✨. Currently, I am training as a Full Stack Development to 💻 make my career come back 👩🏻‍🎓. My goal is to graduate in June 2024 and apply my training to a job as a Junior Developer. I know faith makes things possible, but not easy!</p>
 <br />
 <details color: "red">
 <summary>My top skills and more</summary>
