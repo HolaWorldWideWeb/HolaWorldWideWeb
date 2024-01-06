@@ -16,7 +16,7 @@
 </details>
 <p>
 👨‍💻 It is easy for me to learn new skills so, I look forward to collaborating on the open source in this platform. <br />
-🙈🙉🙊 How to reach me: my email normasgunderson@gmail.com <br /> and ask me about the other 🦎transferable skills I have experience on. <br /> 🧘‍♂️ 
+🙈🙉🙊 How to reach me: my email normasgunderson@gmail.com, and ask me about the other 🦎transferable skills I have experience on. <br /> 🧘‍♂️ 
 
 Fun fact: 😮 the square root of a number is the same as that number to the .5 power and that is not a chemical element that starts with the letter j <br />
 </p>
