@@ -1,9 +1,8 @@
 <h1 align="center"> Hola I am Norma G. </h2>
-
-
 <h4 align="center">Thanks for taking the time to learn more about me.</h4>
-
-<details color:"red">
+<p>I am fully bilingual in Spanish and English ✨ and Ex-Business Owner ✨. I’m currently making my career come back and 👩🏻‍🎓 training as a Full Stack Development 💻 </p>
+<br />
+<details color: "red">
 <summary>My top skills and more</summary>
 
 | Rank | THING-TO-RANK |
@@ -16,11 +15,10 @@
 
 </details>
 <p>
-I am fully bilingual in Spanish and English ✨ and Ex-Business Owner ✨. I’m currently making my career come back and 👩🏻‍🎓 training as a Full Stack Development 💻 <br /> 
 👨‍💻 It is easy for me to learn new skills so, I look forward to collaborating on the open source in this platform. <br />
-🧘‍♂️ Ask me about what other 🦎transferable skills I possess. <br />
-🙈🙉🙊 How to reach me: my email normasgunderson@gmail.com <br />
- Fun fact: 😮 the square root of a number is the same as that number to the .5 power and that is not a chemical element that starts with the letter j <br />
+🙈🙉🙊 How to reach me: my email normasgunderson@gmail.com <br /> and ask me about the other 🦎transferable skills I have experience on. <br /> 🧘‍♂️ 
+
+Fun fact: 😮 the square root of a number is the same as that number to the .5 power and that is not a chemical element that starts with the letter j <br />
 </p>
 
 <!--
