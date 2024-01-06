@@ -1,7 +1,7 @@
-<h1 align="center"> Hi there </h2>
+<h1 align="center"> Hola I am Norma G. </h2>
 
 
-<h4 align="center">My name is Norma G. Thanks for taking the time to learn more about me.</h4>
+<h4 align="center">Thanks for taking the time to learn more about me.</h4>
 
 <details>
 <summary>My top skills and more</summary>
@@ -16,25 +16,19 @@
 
 </details>
 <p>
-I am fully bilingual in Spanish and English and 🔭 I’m currently making my career come back and 👩🏻‍🎓 training as a Full Stack Development 💻 <br /> 
-👨‍💻 I’m looking to collaborate on the open source in this platform. <br />
-🧘‍♂️ Ask me about what other transferable skills I possess. <br />
+I am fully bilingual in Spanish and English ✨ and Ex-Business Owner ✨. I’m currently making my career come back and 👩🏻‍🎓 training as a Full Stack Development 💻 <br /> 
+👨‍💻 It is easy for me to learn new skills so, I look forward to collaborating on the open source in this platform. <br />
+🧘‍♂️ Ask me about what other 🦎transferable skills I possess. <br />
 🙈🙉🙊 How to reach me: my email normasgunderson@gmail.com <br />
  Fun fact: 😮 the square root of a number is the same as that number to the .5 power and that is not a chemical element that starts with the letter j <br />
 </p>
 
 <!--
-**HolaWorldWideWeb/HolaWorldWideWeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HolaWorldWideWeb/HolaWorldWideWeb** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently making my career come back and 👩🏻‍🎓 training as a Full Stack Development 💻  
-- 👯 I’m looking to collaborate on the open source in this platform. 
-- 💬 Ask me about what other skills I possess
-- 📫 How to reach me: my email normasgunderson@gmail.com
-- ⚡ Fun fact: the square root of a number is the same as that number to the .5 power and that is not a chemical element that starts with the letter j
 -->
-
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
